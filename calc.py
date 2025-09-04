@@ -19,5 +19,11 @@ while True:
         
     else:
         print("Operação inválida!")
+    
 
     print("{} {} {} = {}".format(num1, op, num2, result))
+    break
+
+print("Fim do programa")
+
+
